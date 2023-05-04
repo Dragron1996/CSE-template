@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello Prep2 World!");
+        Console.WriteLine("Testing");
         Console.Write("What did you get as a grade percentage ");
         string valueFromUser = Console.ReadLine();
         string grade_letter = " ";

@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello Prep4 World!");
+        Console.WriteLine("Testing");
         List<int> numbers = new List<int>();
 
         Console.WriteLine("Add a number to the list");
